@@ -1,0 +1,5 @@
+name: SimpleFireFix
+description: Prevent fire igniting on its own during a storm.
+version: %VERSION%
+author: EdGruberman (ed@rjump.com)
+main: edgruberman.bukkit.simplefirefix.Main
