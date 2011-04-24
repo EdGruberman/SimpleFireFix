@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project name="SimpleFireFix" default="Test (Build and Copy)" basedir=".">
     <property name="implementation-title" value="edgruberman.bukkit.simplefirefix"/>
-    <property name="implementation-name" value="edgruberman/bukkit/simplefirefixt/"/>
+    <property name="implementation-name" value="edgruberman/bukkit/simplefirefix/"/>
     <property name="manifest-classpath" value=""/>
         
     <property name="test" location="D:/Documents/Personal/Games/Minecraft/Server/plugins"/>

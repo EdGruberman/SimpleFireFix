@@ -20,9 +20,6 @@ public class Main extends org.bukkit.plugin.java.JavaPlugin {
         
         this.getServer().getPluginManager()
             .registerEvent(Event.Type.BLOCK_IGNITE, new BlockListener(), Event.Priority.Normal, this);
-        
-        this.getServer().getPluginManager()
-            .registerEvent(Event.Type.BLOCK_BURN,   new BlockListener(), Event.Priority.Normal, this);
 
         Main.messageManager.log("Plugin Enabled");
     }
